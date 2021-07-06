@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ZhaoGang
 - 🌱 I’m currently learning Golang & Go micro
-- 👯 [CoffeeChat](https://github.com/xmcy0011/CoffeeChat): a opensouce im with go and swift
+- 👯 [CoffeeChat](https://github.com/xmcy0011/CoffeeChat): a opensource im with go
 - 🤔 [cpp-dirtyfilter](https://github.com/xmcy0011/cpp-dirtyfilter): C++中文敏感词过滤
 - 💬 [TeamTalk](https://github.com/xmcy0011/TeamTalk): a branch with mogujie im solution
 - 📫 [crawler3](https://github.com/xmcy0011/crawler3): python 爬虫，51job职位
