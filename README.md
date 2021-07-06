@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **xmcy0011/xmcy0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xmcy0011&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 你好，世界 👋
-
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- 🔭 I’m currently working on ZhaoGang
+- 🌱 I’m currently learning Golang & Go micro
+- 👯 [CoffeeChat](https://github.com/xmcy0011/CoffeeChat): a opensouce im with go and swift
+- 🤔 [cpp-dirtyfilter](https://github.com/xmcy0011/cpp-dirtyfilter): C++中文敏感词过滤
+- 💬 [TeamTalk](https://github.com/xmcy0011/TeamTalk): a branch with mogujie im solution
+- 📫 [crawler3](https://github.com/xmcy0011/crawler3): python 爬虫，51job职位
+- 😄 [getAwayBSG](https://github.com/xmcy0011/getAwayBSG)：链家房价爬虫，支持所有城市
+- ⚡ keep running...
