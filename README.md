@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 👯 [CoffeeChat](https://github.com/xmcy0011/CoffeeChat): a opensource im with go
 - 🤔 [cpp-dirtyfilter](https://github.com/xmcy0011/cpp-dirtyfilter): C++中文敏感词过滤
 - 💬 [TeamTalk](https://github.com/xmcy0011/TeamTalk): a branch with mogujie im solution
-- 📫 [ToBeTopGo-Gitbook](https://github.com/xmcy0011/ToBeTopGo-Gitbook]: 成为卓越程序员之路
+- 📫 [ToBeTopGo-Gitbook](https://github.com/xmcy0011/ToBeTopGo-Gitbook): 成为卓越程序员之路
 - ⚡ keep running...
