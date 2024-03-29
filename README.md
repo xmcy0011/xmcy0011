@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Shanghai
 - 🌱 I’m currently learning AIGC
-- 👯 [CoffeeChat](https://github.com/xmcy0011/CoffeeChat): a opensource im with go
+- 👯 [CoffeeChat](https://github.com/xmcy0011/CoffeeChat): go全平台开源im，适合学习
 - 🤔 [cpp-dirtyfilter](https://github.com/xmcy0011/cpp-dirtyfilter): C++中文敏感词过滤
-- 💬 [TeamTalk](https://github.com/xmcy0011/TeamTalk): a branch with mogujie im solution
+- 💬 [TeamTalk](https://github.com/xmcy0011/TeamTalk): 可运行蘑菇街开源im分支
 - 📫 [ToBeTopGo-Gitbook](https://github.com/xmcy0011/ToBeTopGo-Gitbook): 成为卓越程序员之路
 - ⚡ keep running...
