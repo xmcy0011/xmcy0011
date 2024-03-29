@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xmcy0011&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🔭 I’m currently working on ZhaoGang
-- 🌱 I’m currently learning Golang & Go micro
+- 🔭 I’m currently working on Shanghai
+- 🌱 I’m currently learning AIGC
 - 👯 [CoffeeChat](https://github.com/xmcy0011/CoffeeChat): a opensource im with go
 - 🤔 [cpp-dirtyfilter](https://github.com/xmcy0011/cpp-dirtyfilter): C++中文敏感词过滤
 - 💬 [TeamTalk](https://github.com/xmcy0011/TeamTalk): a branch with mogujie im solution
-- 📫 [crawler3](https://github.com/xmcy0011/crawler3): python 爬虫，51job职位
-- 😄 [getAwayBSG](https://github.com/xmcy0011/getAwayBSG)：链家房价爬虫，支持所有城市
+- 📫 [ToBeTopGo-Gitbook](https://github.com/xmcy0011/ToBeTopGo-Gitbook]: 成为卓越程序员之路
 - ⚡ keep running...
